@@ -6,6 +6,7 @@ This branch contains the patched version located [here](https://github.com/Root-
 
 ```bash
 $ bundle exec bin/gli_auto_complete parent child
+Running the child command
 ```
 
 ```bash

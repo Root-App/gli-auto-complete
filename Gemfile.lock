@@ -1,13 +1,19 @@
+GIT
+  remote: https://github.com/Root-App/gli.git
+  revision: a118af99afb96fc149b67e889f7b000245a891d0
+  ref: a118af99afb96fc149b67e889f7b000245a891d0
+  specs:
+    gli (2.18.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
-    gli (2.18.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  gli (~> 2.18)
+  gli!
 
 BUNDLED WITH
    2.0.2

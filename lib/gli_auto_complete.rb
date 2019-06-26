@@ -4,6 +4,8 @@ module GliAutoComplete
   extend GLI::App
 
   autocomplete_commands false
+  arguments :strict
+  subcommand_option_handling :normal
 
   command :parent do |parent_command|
     parent_command.action do
